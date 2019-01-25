@@ -2,6 +2,9 @@
 Binderized MUSCLE: multiple sequence alignment with high accuracy and high throughput
 
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/muscle-binder/master)
+
+
 See [here](http://www.drive5.com/muscle/manual/) about the software.
 This simply makes it available in a Jupyter session served via MyBinder.org.
 
