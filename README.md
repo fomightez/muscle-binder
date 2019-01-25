@@ -5,7 +5,7 @@ Binderized MUSCLE: multiple sequence alignment with high accuracy and high throu
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/muscle-binder/master)
 
 
-See [here](http://www.drive5.com/muscle/manual/) about the software.
+See [here](http://www.drive5.com/muscle/manual/) about the software. [License](http://www.drive5.com/muscle/manual/license.html)
 This simply makes it available in a Jupyter session served via MyBinder.org.
 
 Normally, I use MUSCLE via EMBL-EBI [here](https://www.ebi.ac.uk/Tools/msa/muscle/); however, that says it is limited to 500 sequences.
