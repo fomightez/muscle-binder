@@ -49,6 +49,13 @@ MUSCLE is already available as web-served versions of software from EMBL-EBI at 
 *Aligning with MUSCELE web-based tools*
 
 * [MUSCLE web tool served from EMBL-EBI](https://www.ebi.ac.uk/Tools/msa/muscle/)
+
+*Related Alternatives*
+
+If you are familiar with Docker:
+
+[The BioContainters project](https://github.com/BioContainers/containers) has many bioinformatics-related Docker containers & that includes [MUSCLE](https://github.com/BioContainers/containers/tree/master/muscle).
+
  
 License for MUSCLE aligner
 ----------------------------
