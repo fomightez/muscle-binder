@@ -12,4 +12,5 @@ dependencies:
   - biopython
   - regex
   - muscle
+  - pandoc
 
