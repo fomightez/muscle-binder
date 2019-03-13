@@ -9,10 +9,10 @@ Click any `launch binder` badge on this page to run command line-based MUSCLE mu
 
 ***MUSCLE: Multiple Sequence alignment tool on the command-line.***
 
-This repository is for running Muscle in Jupyter environment provided by [MyBinder.org](https://mybinder.org/).  
+This repository is for running MUSCLE in Jupyter environment provided by [MyBinder.org](https://mybinder.org/).  
 
 
-At the EMBL-EBI cite is billed as, "Accurate MSA tool, especially good with proteins. Suitable for medium alignments." "MUSCLE stands for MUltiple Sequence Comparison by Log- Expectation. MUSCLE is claimed to achieve both better average accuracy and better speed than ClustalW2 or T-Coffee, depending on the chosen options."
+At the EMBL-EBI site, MUSCLE is billed as an, "Accurate MSA tool, especially good with proteins. Suitable for medium alignments." "MUSCLE stands for MUltiple Sequence Comparison by Log- Expectation. MUSCLE is claimed to achieve both better average accuracy and better speed than ClustalW2 or T-Coffee, depending on the chosen options."
 
 -------
 
