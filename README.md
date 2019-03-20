@@ -19,12 +19,9 @@ At the EMBL-EBI site, MUSCLE is billed as an, "Accurate MSA tool, especially goo
 Software
 --------
 
-The MUSCLE software will be installed already in each active session launched from this repository. The MUSCLE software is available directly from the author of the software, Robert Edgar,[https://www.drive5.com/muscle/].
+The MUSCLE software will be installed already in each active session launched from this repository. The MUSCLE software is available directly from the author of the software, Robert Edgar, [here](https://www.drive5.com/muscle/).
 
-
-**BLAST is a registered trademark of the National Library of Medicine**, see [here](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=References).
-
-The BLAST software references are listed [here](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=References).
+MUSCLE is public domain software, see [below](#License-for-MUSCLE-aligner)
 
 The author of the software, Robert Edgar, requests users please cite:
 
